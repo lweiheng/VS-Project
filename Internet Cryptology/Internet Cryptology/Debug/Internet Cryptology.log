@@ -1,0 +1,2 @@
+﻿  stdafx.cpp
+c:\users\dell\source\repos\internet cryptology\internet cryptology\stdafx.cpp(6): fatal error C1083: Cannot open include file: 'openssl/ssl.h': No such file or directory
